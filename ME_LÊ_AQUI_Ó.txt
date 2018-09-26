@@ -1,5 +1,0 @@
-Desisti do GitHub...
-
-src -> todo o código fonte
-
-doc -> tudo relacionado ao relatório
